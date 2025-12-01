@@ -1,6 +1,6 @@
 # QuantumChem-200K: A Large-Scale Open Organic Molecular Dataset for Quantum-Chemistry Property Screening and Language Model Benchmarking
 We introduce QuantumChem-200K, a large-scale dataset of over 200,000 organic molecules annotated with eleven quantum-chemical properties, including two-photon absorption (TPA) cross sections, TPA spectral ranges, singlet–triplet intersystem crossing (ISC) energies, toxicity and synthetic accessibility scores, hydrophilicity, solubility, boiling point, molecular weight, and aromaticity. These values are computed using a hybrid workflow that integrates density function theory (DFT), semi- empirical excited-state methods, atomistic quantum solvers, and neural-network predictors.
-Data is available at: https://huggingface.co/datasets/YinqiZeng704/200k_monomer_properties
+Data is available at: https://huggingface.co/datasets/YinqiZeng704/200k_monomer_properties, and paper is avalibale at: https://arxiv.org/abs/2511.21747
 
 # Two-photon absorption (TPA) lithography to fabricate advanced micro-optical devices:
 <img width="350" height="400" alt="Screenshot 2025-11-30 at 18 30 53" src="https://github.com/user-attachments/assets/5eaba58a-f4c5-4345-8e71-f3651a7b353b" />
